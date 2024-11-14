@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # flutter_digital_library
 
 A new Flutter project.
@@ -15,7 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
+
 ### Technology
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat&logo=tailwindcss&logoColor=white)
@@ -46,4 +45,3 @@ DigitalLibrary adalah platform perpustakaan digital yang dirancang untuk memberi
 - Dukungan Multi-Bahasa: Aplikasi mendukung berbagai bahasa untuk antarmuka pengguna, memungkinkan pengguna dari berbagai negara untuk menggunakan DigitalLibrary dengan lebih nyaman.
 
 Keamanan dan Privasi: Data pengguna aman dengan enkripsi dan kebijakan privasi yang ketat, memastikan bahwa informasi pribadi dan aktivitas membaca dilindungi.
->>>>>>> a2d79c6603f1e83b666d2338477bb57d6e558ded
